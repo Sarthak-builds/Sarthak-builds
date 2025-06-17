@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Sarthak Shiroty!<br><br>🎓  CSE Student exploring the MERN Stack.<br>🎨 Passionate about frontend design and creating intuitive user experiences.<br>🚀 Believer in the "build and ship" mindset—learning by doing.<br>Check out my projects and let’s connect!
+#  About Me:
+👋 Hi, I'm Sarthak Shiroty!<br>🎓CSE'27.MERN Stack.<br>Build and Ship is ala that matters..<br>Check out my projects and let’s connect!
 
 
 ## 🌐 Socials:
