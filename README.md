@@ -1,5 +1,5 @@
 #  About Me:
-👋 Hi, I'm Sarthak Shiroty!<br>🎓CSE'27.MERN Stack.<br>Build and Ship is all that matters..<br>Check out my projects and let’s connect!
+👋 Hi, I'm Sarthak.<br>🎓CSE'27. Frontend Developer.<br>Build and Ship.<br>Check out my projects 🛠️
 
 
 ## 🌐 Socials:
