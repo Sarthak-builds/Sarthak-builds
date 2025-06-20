@@ -1,5 +1,5 @@
 #  About Me:
-👋 Hi, I'm Sarthak.<br>🎓CSE'27. Frontend Developer.<br>Build and Ship.<br>Check out my projects 🛠️
+👋 Hi, I'm Sarthak.<br>CSE'27. Frontend Developer.Build and Ship.<br>Check out my projects 🛠️
 
 
 ## 🌐 Socials:
