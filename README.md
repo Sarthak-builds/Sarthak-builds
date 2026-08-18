@@ -19,17 +19,14 @@ I build across the stack, from web and backend systems to mobile applications, w
 
 <p align="left">
 <a href="https://sarthakbuilds.in">
-<img src="https://skillicons.dev/icons?i=googlechrome" width="32">
+  <img src="https://img.icons8.com/fluency-systems-filled/48/FFFFFF/globe.png" width="32">
 </a>
-&nbsp;
 <a href="YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin" width="32">
 </a>
-&nbsp;
 <a href="YOUR_X">
 <img src="https://skillicons.dev/icons?i=twitter" width="32">
 </a>
-&nbsp;
 <a href="https://github.com/Sarthak-builds">
 <img src="https://skillicons.dev/icons?i=github" width="32">
 </a>
