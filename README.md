@@ -1,23 +1,47 @@
-#  About Me:
-👋 Hi, I'm Sarthak.<br>CSE'27. Frontend Developer.Build and Ship.<br>Check out my projects 🛠️
+<table>
+<tr>
 
+<td width="65%" valign="top">
 
-## 🌐 Socials:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SarthakShiroty)] [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sarthakbuilds) 
+# Hey, I'm Sarthak Shiroty.
 
+**Full-Stack & App Developer · Grinding to become an AI Engineer**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sarthak-builds&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-builds&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-builds&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a Computer Science engineer who likes to **build, break, understand, and ship**.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+Currently learning **AI from the ground up** — moving from Machine Learning into **Deep Learning, Neural Networks, PyTorch, and modern AI systems**.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sarthak-builds&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+I build across the stack, from web and backend systems to mobile applications, while gradually moving deeper into AI engineering.
 
----
-[![](https://visitcount.itsvg.in/api?id=Sarthak-builds&icon=2&color=1)](https://visitcount.itsvg.in)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Connect:**
+
+<p align="left">
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" width="32">
+</a>
+
+<a href="https://sarthakbuilds.in">
+<img src="https://skillicons.dev/icons?i=googlechrome" width="32">
+</a>
+
+<a href="YOUR_X">
+<img src="https://skillicons.dev/icons?i=twitter" width="32">
+</a>
+
+<a href="https://github.com/Sarthak-builds">
+<img src="https://skillicons.dev/icons?i=github" width="32">
+</a>
+</p>
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="YOUR_IMAGE_URL" width="100%"/>
+
+</td>
+
+</tr>
+</table>
