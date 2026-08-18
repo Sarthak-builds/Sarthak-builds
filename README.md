@@ -18,18 +18,21 @@ I build across the stack, from web and backend systems to mobile applications, w
 **Connect:**
 
 <p align="left">
-<a href="https://sarthakbuilds.in">
-  <img src="https://img.icons8.com/fluency-systems-filled/48/FFFFFF/globe.png" width="32">
-</a>
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="32">
-</a>
-<a href="YOUR_X">
-<img src="https://skillicons.dev/icons?i=twitter" width="32">
-</a>
-<a href="https://github.com/Sarthak-builds">
-<img src="https://skillicons.dev/icons?i=github" width="32">
-</a>
+  <a href="https://sarthakbuilds.in" title="Portfolio">
+    <img src="https://img.icons8.com/fluency-systems-filled/48/FFFFFF/globe.png" width="32">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/sarthak-shiroty-8240bb357/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="32">
+  </a>
+  
+  <a href="https://x.com/Sarthakbuilds" title="X">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="32">
+  </a>
+ 
+  <a href="https://github.com/Sarthak-builds" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" width="32">
+  </a>
 </p>
 
 </td>
